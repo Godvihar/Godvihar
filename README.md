@@ -33,23 +33,53 @@
 ## 🔧 Skills & Tools
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" title="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL logo" title="MySQL" />
+</div>
+
 
 ### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=matplotlib)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy logo" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas logo" title="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow logo" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" height="30" alt="Arduino logo" title="Arduino" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="30" alt="Matplotlib logo" title="Matplotlib" />
+</div>
+
+
 
 ### 🛠 Tools & Platforms
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" title="Visual Studio Code" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30" alt="Jupyter logo" title="Jupyter Notebook" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="30" alt="Google Colab logo" title="Google Colab" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="30" alt="Excel logo" title="Microsoft Excel" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" height="30" alt="Word logo" title="Microsoft Word" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" height="30" alt="PowerPoint logo" title="Microsoft PowerPoint" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="Power BI logo" title="Power BI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
+  <img width="12" />
+</div>
 
 ---
 
