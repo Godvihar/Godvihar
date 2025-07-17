@@ -1,7 +1,7 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshgoel05/harshgoel05/main/assets/coding.gif" width="280" alt="Coding from Home"/>
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 <h1 align="center">Hey there! I'm Vihar K S Gowda 👋</h1>
 
