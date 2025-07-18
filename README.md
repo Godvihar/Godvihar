@@ -77,8 +77,6 @@
   <img width="12" />
   <img src="https://img.icons8.com/color/48/power-bi.png" height="30" alt="Power BI logo" title="Power BI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" title="Git" />
-  <img width="12" />
 </div>
 
 ---
